@@ -1,1 +1,0 @@
-# Table-carousel-Using-Bootstrap
